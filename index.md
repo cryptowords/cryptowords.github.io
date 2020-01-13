@@ -1,5 +1,5 @@
 ---
-title: "All signal, no noise. The best place to read about Bitcoin."
+title: "Crypto Words is now WORDS, and we're at a mew web address"
 layout: splash
 permalink: /
 date: 2019-03-01
@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-header.png
   actions:
-    - label: "SUBSCRIBE NOW (FOR FREE)!"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+    - label: "Go to WORDS"
+      url: "https://bitcoinwords.github.io/"
   caption: ""
 excerpt: "Bitcoin's Most Important Writings, Delivered Straight to Your Inbox"
-feature_row:
+#feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
@@ -36,6 +36,4 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-[![](https://raw.githubusercontent.com/cryptowords/cryptowords.github.io/master/assets/images/splash-stats.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
 
-{% include feature_row %}
