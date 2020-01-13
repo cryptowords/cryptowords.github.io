@@ -12,7 +12,7 @@ header:
       url: "https://bitcoinwords.github.io/"
   caption: ""
 excerpt: "Bitcoin's Most Important Writings, Delivered Straight to Your Inbox"
-#feature_row:
+feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
