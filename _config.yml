@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Crypto Words"
+title                    : "Crypto Words now WORDS"
 title_separator          : "-"
-name                     : "Crypto Words"
+name                     : "Crypto Words now WORDS"
 description              : "A Monthly Bitcoin Journal"
 url                      : "https://cryptowords.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
