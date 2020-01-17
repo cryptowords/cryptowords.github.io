@@ -106,46 +106,46 @@ analytics:
 
 # Site Author
 author:
-  name             : "Crypto Words"
+  name             : "WORDS"
   avatar           : "/assets/images/words-card-200.png"
   bio              : "Do Your Own Research. Read Words."
   location         : # "Little Rock, AR"
-  email            : "cryptowordsjournal@gmail.com"
+  email            : "bitcoinwords@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:cryptowordsjournal@pm.me"
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+      url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_cryptowords"
+      url: "https://twitter.com/_bitcoinwords"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/cryptowords"
-    - label: " Beer Fund"
+    - label: " Support"
       icon: "fas fa-beer"
-      url: "https://cryptowords.github.io/beer-fund/"
+      url: "https://bitcoinwords.github.io/support/"
 
 # Site Footer
 footer:
   links:
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+      url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/_cryptowords
+      url: https://twitter.com/_bitcoinwords
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cryptowords"
+      url: "https://github.com/bitcoinwords"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/cryptowords"
