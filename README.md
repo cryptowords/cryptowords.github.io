@@ -1,3 +1,3 @@
 # [Crypto Words](https://cryptowords.github.io/) is now [WORDS](https://bitcoinwords.github.io/)
 
-*Crypto Words* has pivoted to a new *WORDS*. All development is on that repository.
+*Crypto Words* has pivoted to a new *WORDS*. All development is on that [repository](https://github.com/bitcoinwords/bitcoinwords.github.io).
